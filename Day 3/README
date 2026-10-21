@@ -1,2 +1,11 @@
 DAY 3
 CALCULATOR IN MAKERCHIP
+D3_CalcMemory.png is the final Output screenshot of Calculator + memory
+D3_PipelineCalcMem.v is the final Verilog file of Calculator + memory
+URLS:-
+https://www.makerchip.com/v196/ide/~082fZcWD/p-0rZcA6 (Memory)
+https://www.makerchip.com/v196/ide/~082fZcWD/p-0oRcX4 (Valid)
+https://www.makerchip.com/v196/ide/~082fZcWD/p-0pwczO (2 cycle)
+https://www.makerchip.com/v196/ide/~082fZcWD/p-0nQcG6 (Pipeline)
+https://www.makerchip.com/v196/ide/~082fZcWD/p-0mRc51 (Sequential Calculator)
+https://www.makerchip.com/v196/ide/~082fZcWD/p-0jQcjn (Multiplexer)
